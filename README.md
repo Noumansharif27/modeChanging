@@ -4,5 +4,5 @@
 
 <h3>CSS Variables</h3>
 
-<p>getting use of CSS variables and understanding therir importance.</p>
-<li>It is important to achieve Light & Dark Mode on a website.</li>
+<p>getting use of CSS variables and understanding their importance.</p>
+<li>It is important for the feature to navigate through Light & Dark Mode on a website.</li>
